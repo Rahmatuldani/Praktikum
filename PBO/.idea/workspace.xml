@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc7ca3d4-d509-4df6-857b-65d8d250870b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XasuFN1yJLVOhiIkqCygHGc0l5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.ViewOrang">
+    <configuration name="CobaPenampilFileJFileChooser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bab8.Source.CobaPenampilFileJFileChooser" />
+      <module name="Praktikum PBO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bab8.Source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputDataMahasiswa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bab9.Source.InputDataMahasiswa" />
+      <module name="Praktikum PBO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bab9.Source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LihatDataMahasiswa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bab9.Source.LihatDataMahasiswa" />
+      <module name="Praktikum PBO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bab9.Source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bab3.Tugas.Main" />
+      <module name="Praktikum PBO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bab3.Tugas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewOrang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bab11.Source.ViewOrang" />
+      <module name="Praktikum PBO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bab11.Source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CobaPenampilFileJFileChooser" />
+      <item itemvalue="Application.InputDataMahasiswa" />
+      <item itemvalue="Application.LihatDataMahasiswa" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ViewOrang" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ViewOrang" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LihatDataMahasiswa" />
+        <item itemvalue="Application.InputDataMahasiswa" />
+        <item itemvalue="Application.CobaPenampilFileJFileChooser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc7ca3d4-d509-4df6-857b-65d8d250870b" name="Default Changelist" comment="" />
+      <created>1581295760514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581295760514</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="213" width="847" height="676" key="#Project_Structure" timestamp="1582248635520">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="555" y="213" width="847" height="676" key="#Project_Structure/0.24.1920.1056@0.24.1920.1056" timestamp="1582248635520" />
+    <state x="768" y="264" width="374" height="574" key="#com.intellij.ide.util.MemberChooser" timestamp="1582256088557">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="768" y="264" width="374" height="574" key="#com.intellij.ide.util.MemberChooser/0.24.1920.1056@0.24.1920.1056" timestamp="1582256088557" />
+    <state x="693" y="301" width="524" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582515115062">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="693" y="301" width="524" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.24.1920.1056@0.24.1920.1056" timestamp="1582515115062" />
+    <state x="743" y="310" width="424" height="483" key="FileChooserDialogImpl" timestamp="1581295942194">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="743" y="310" width="424" height="483" key="FileChooserDialogImpl/0.24.1920.1056@0.24.1920.1056" timestamp="1581295942194" />
+    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1582860249874">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.bottom/0.24.1920.1056@0.24.1920.1056" timestamp="1582860249874" />
+    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1582860249874">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.center/0.24.1920.1056@0.24.1920.1056" timestamp="1582860249874" />
+    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1582860249874">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.left/0.24.1920.1056@0.24.1920.1056" timestamp="1582860249874" />
+    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1582860249874">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.right/0.24.1920.1056@0.24.1920.1056" timestamp="1582860249874" />
+    <state x="269" y="154" width="1372" height="795" key="new project wizard" timestamp="1582816086387">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="269" y="154" width="1372" height="795" key="new project wizard/0.24.1920.1056@0.24.1920.1056" timestamp="1582816086387" />
+  </component>
+</project>
