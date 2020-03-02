@@ -1,8 +1,8 @@
-package main;
+package Bab1.Tugas1;
 
 import java.util.Scanner;
 
-public class Main {
+public class Tugas1 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

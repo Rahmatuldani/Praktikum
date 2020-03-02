@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc7ca3d4-d509-4df6-857b-65d8d250870b" name="Default Changelist" comment="" />
+    <list default="true" id="dc7ca3d4-d509-4df6-857b-65d8d250870b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas_Duck/Attack/ArrowAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas_Duck/Attack/AttackBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas_Duck/Attack/SwordAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas_Duck/Defend/ArmorDefend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas_Duck/Defend/DefendBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas_Duck/Defend/ShieldDefend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas_Duck/Fly/FlyBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas_Duck/Fly/PlaneFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas_Duck/Fly/RocketFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas_Duck/Fly/WingsFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas_Duck/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas_Duck/Sound/NormalSound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas_Duck/Sound/SoundBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tugas_Duck/Sound/ToaSound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bab1/Tugas1/Tugas1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bab1/Tugas1/Tugas1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,18 +28,23 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XasuFN1yJLVOhiIkqCygHGc0l5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -29,20 +52,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.ViewOrang">
-    <configuration name="CobaPenampilFileJFileChooser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bab8.Source.CobaPenampilFileJFileChooser" />
-      <module name="Praktikum PBO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Bab8.Source.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="InputDataMahasiswa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bab9.Source.InputDataMahasiswa" />
       <module name="Praktikum PBO" />
@@ -69,12 +79,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tugas_Duck.Main" />
+      <module name="Praktikum PBO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tugas_Duck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bab3.Tugas.Main" />
       <module name="Praktikum PBO" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Bab3.Tugas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tugas_Duck.Main" />
+      <module name="Praktikum PBO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tugas_Duck.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,19 +132,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CobaPenampilFileJFileChooser" />
       <item itemvalue="Application.InputDataMahasiswa" />
       <item itemvalue="Application.LihatDataMahasiswa" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ViewOrang" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ViewOrang" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LihatDataMahasiswa" />
-        <item itemvalue="Application.InputDataMahasiswa" />
-        <item itemvalue="Application.CobaPenampilFileJFileChooser" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +170,10 @@
       <screen x="0" y="24" width="1920" height="1056" />
     </state>
     <state x="768" y="264" width="374" height="574" key="#com.intellij.ide.util.MemberChooser/0.24.1920.1056@0.24.1920.1056" timestamp="1582256088557" />
+    <state x="429" y="24" width="1042" height="1055" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583117585723">
+      <screen x="0" y="24" width="1920" height="1056" />
+    </state>
+    <state x="429" y="24" width="1042" height="1055" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.24.1920.1056@0.24.1920.1056" timestamp="1583117585723" />
     <state x="693" y="301" width="524" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582515115062">
       <screen x="0" y="24" width="1920" height="1056" />
     </state>
@@ -142,22 +182,22 @@
       <screen x="0" y="24" width="1920" height="1056" />
     </state>
     <state x="743" y="310" width="424" height="483" key="FileChooserDialogImpl/0.24.1920.1056@0.24.1920.1056" timestamp="1581295942194" />
-    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1582860249874">
+    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1583120392927">
       <screen x="0" y="24" width="1920" height="1056" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.bottom/0.24.1920.1056@0.24.1920.1056" timestamp="1582860249874" />
-    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1582860249874">
+    <state width="914" height="279" key="GridCell.Tab.0.bottom/0.24.1920.1056@0.24.1920.1056" timestamp="1583120392927" />
+    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1583120392927">
       <screen x="0" y="24" width="1920" height="1056" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.center/0.24.1920.1056@0.24.1920.1056" timestamp="1582860249874" />
-    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1582860249874">
+    <state width="914" height="279" key="GridCell.Tab.0.center/0.24.1920.1056@0.24.1920.1056" timestamp="1583120392927" />
+    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1583120392927">
       <screen x="0" y="24" width="1920" height="1056" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.left/0.24.1920.1056@0.24.1920.1056" timestamp="1582860249874" />
-    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1582860249874">
+    <state width="914" height="279" key="GridCell.Tab.0.left/0.24.1920.1056@0.24.1920.1056" timestamp="1583120392927" />
+    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1583120392927">
       <screen x="0" y="24" width="1920" height="1056" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.right/0.24.1920.1056@0.24.1920.1056" timestamp="1582860249874" />
+    <state width="914" height="279" key="GridCell.Tab.0.right/0.24.1920.1056@0.24.1920.1056" timestamp="1583120392927" />
     <state x="269" y="154" width="1372" height="795" key="new project wizard" timestamp="1582816086387">
       <screen x="0" y="24" width="1920" height="1056" />
     </state>
