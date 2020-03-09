@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Praktikum PBO.iml" filepath="$PROJECT_DIR$/Praktikum PBO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Bab1/Bab1.iml" filepath="$PROJECT_DIR$/src/Bab1/Bab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PBO.iml" filepath="$PROJECT_DIR$/PBO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/PBO1.iml" filepath="$PROJECT_DIR$/src/PBO1.iml" />
     </modules>
   </component>
 </project>

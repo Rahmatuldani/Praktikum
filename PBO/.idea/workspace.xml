@@ -1,30 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc7ca3d4-d509-4df6-857b-65d8d250870b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Latihan_OOP/Dosen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Latihan_OOP/Karyawan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Latihan_OOP/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Latihan_OOP/Staff.java" afterDir="false" />
+    <list default="true" id="f9145cc0-d2f7-42f8-9a81-d505e1fd9ab6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Belajar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Belajar/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Belajar/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Belajar/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Belajar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Belajar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Belajar/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Belajar/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Belajar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Belajar/Belajar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Belajar/src/InputDataMahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Belajar/src/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Belajar/src/ShowReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PBO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PBO/Bab1/Bab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PBO/PBO1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bab1/Bab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PBO1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab1/Tugas1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab1/Tugas1/Tugas1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab11/Source/ControllerOrang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab11/Source/ListenerOrang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab11/Source/ModelOrang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab11/Source/ViewOrang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab2/Tugas/package1/Tema1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab2/Tugas/package1/Tema2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab2/Tugas/package2/Tema1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab2/Tugas/package2/Tema2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Source/CobaException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Source/Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Source/Karyawan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Source/MakhlukHidup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Source/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Source/Manusia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Source/Pekerjaan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Source/Pembagian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Source/Polymorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Source/Receptionist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Source/Stark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Source/TanpaException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Source/TesInputBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Source/TesThrows.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Source/Tumbuhan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Source/hewan/Burung.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Tugas.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Tugas/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Tugas/bangundatar/BangunDatar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Tugas/bangundatar/Lingkaran.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Tugas/bangundatar/Persegi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Tugas/bangundatar/PersegiPanjang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Tugas/bangunruang/Balok.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Tugas/bangunruang/BangunRuang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Tugas/bangunruang/Bola.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Tugas/bangunruang/Kerucut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Tugas/bangunruang/Kubus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Tugas/bangunruang/LimasPersegi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab3/Tugas/bangunruang/Tabung.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab5/Source/FrameBiasa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab5/Source/FrameTurunan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab5/Source/GUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab5/Source/ObjectGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab5/Source/PanggilFrameTurunan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab5/Tugas/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab5/Tugas/MultiLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab5/Tugas/Tampil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab5/Tugas/TampilLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab6/Source/BLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab6/Source/CobaBorderLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab6/Source/CobaFlowLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab6/Source/CobaGridLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab6/Source/CobaNullLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab6/Source/FLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab6/Source/GLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab6/Source/NLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab7/Source/ButtonHandling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab7/Source/ComboBoxHandling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab7/Source/EventButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab7/Source/EventComboBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab7/Source/EventRadio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab7/Source/RadioHandling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab8/Source/CekInfoFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab8/Source/CobaPenampilFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab8/Source/CobaPenampilFileBerbuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab8/Source/CobaPenampilFileJFileChooser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab8/Source/InfoFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab8/Source/PenampilFile$Aksi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab8/Source/PenampilFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab8/Source/PenampilFileBerbuffer$Aksi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab8/Source/PenampilFileBerbuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab8/Source/PenampilFileJFileChooser$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab8/Source/PenampilFileJFileChooser$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab8/Source/PenampilFileJFileChooser$Aksi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab8/Source/PenampilFileJFileChooser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab9/Source/InputDataMahasiswa$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab9/Source/InputDataMahasiswa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab9/Source/Koneksi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Bab9/Source/LihatDataMahasiswa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Latihan_OOP/Dosen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Latihan_OOP/Karyawan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Latihan_OOP/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Latihan_OOP/Staff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/META-INF/Praktikum PBO.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Tugas1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Tugas_Duck/Attack/ArrowAttack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Tugas_Duck/Attack/AttackBehaviour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Tugas_Duck/Attack/SwordAttack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Tugas_Duck/Defend/ArmorDefend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Tugas_Duck/Defend/DefendBehaviour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Tugas_Duck/Defend/ShieldDefend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Tugas_Duck/Fly/FlyBehaviour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Tugas_Duck/Fly/PlaneFly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Tugas_Duck/Fly/RocketFly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Tugas_Duck/Fly/WingsFly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Tugas_Duck/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Tugas_Duck/Sound/NormalSound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Tugas_Duck/Sound/SoundBehaviour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Praktikum PBO/Tugas_Duck/Sound/ToaSound.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1XasuFN1yJLVOhiIkqCygHGc0l5" />
+  <component name="ProjectId" id="1Ylm4HxLgZcRscVD4WmnZIKZ2WQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -34,163 +145,38 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="restartRequiresConfirmation" value="false" />
-  </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tugas_Duck.Main" />
-      <module name="Praktikum PBO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tugas_Duck.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Latihan_OOP.Main" />
-      <module name="Praktikum PBO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Latihan_OOP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bab3.Tugas.Main" />
-      <module name="Praktikum PBO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Bab3.Tugas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tugas_Duck.Main" />
-      <module name="Praktikum PBO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tugas_Duck.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bab3.Source.Polymorphism" />
-      <module name="Praktikum PBO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Bab3.Source.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ViewOrang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bab11.Source.ViewOrang" />
-      <module name="Praktikum PBO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Bab11.Source.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ViewOrang" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Polymorphism" />
-      <item itemvalue="Application.Main (2)" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Polymorphism" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ViewOrang" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dc7ca3d4-d509-4df6-857b-65d8d250870b" name="Default Changelist" comment="" />
-      <created>1581295760514</created>
+      <changelist id="f9145cc0-d2f7-42f8-9a81-d505e1fd9ab6" name="Default Changelist" comment="" />
+      <created>1583525362910</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581295760514</updated>
+      <updated>1583525362910</updated>
+      <workItem from="1583525365659" duration="18000" />
+      <workItem from="1583525992581" duration="121000" />
+      <workItem from="1583719841798" duration="141000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="555" y="213" width="847" height="676" key="#Project_Structure" timestamp="1582248635520">
-      <screen x="0" y="24" width="1920" height="1056" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583526072363">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="555" y="213" width="847" height="676" key="#Project_Structure/0.24.1920.1056@0.24.1920.1056" timestamp="1582248635520" />
-    <state x="768" y="264" width="374" height="574" key="#com.intellij.ide.util.MemberChooser" timestamp="1582256088557">
-      <screen x="0" y="24" width="1920" height="1056" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1583526072363" />
+    <state x="470" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1583525368901">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="768" y="264" width="374" height="574" key="#com.intellij.ide.util.MemberChooser/0.24.1920.1056@0.24.1920.1056" timestamp="1582256088557" />
-    <state x="429" y="24" width="1042" height="1055" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583117585723">
-      <screen x="0" y="24" width="1920" height="1056" />
-    </state>
-    <state x="429" y="24" width="1042" height="1055" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.24.1920.1056@0.24.1920.1056" timestamp="1583117585723" />
-    <state x="693" y="301" width="524" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582515115062">
-      <screen x="0" y="24" width="1920" height="1056" />
-    </state>
-    <state x="693" y="301" width="524" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.24.1920.1056@0.24.1920.1056" timestamp="1582515115062" />
-    <state x="743" y="310" width="424" height="483" key="FileChooserDialogImpl" timestamp="1581295942194">
-      <screen x="0" y="24" width="1920" height="1056" />
-    </state>
-    <state x="743" y="310" width="424" height="483" key="FileChooserDialogImpl/0.24.1920.1056@0.24.1920.1056" timestamp="1581295942194" />
-    <state width="1874" height="279" key="GridCell.Tab.0.bottom" timestamp="1583124569061">
-      <screen x="0" y="24" width="1920" height="1056" />
-    </state>
-    <state width="1874" height="279" key="GridCell.Tab.0.bottom/0.24.1920.1056@0.24.1920.1056" timestamp="1583124569061" />
-    <state width="1874" height="279" key="GridCell.Tab.0.center" timestamp="1583124569061">
-      <screen x="0" y="24" width="1920" height="1056" />
-    </state>
-    <state width="1874" height="279" key="GridCell.Tab.0.center/0.24.1920.1056@0.24.1920.1056" timestamp="1583124569061" />
-    <state width="1874" height="279" key="GridCell.Tab.0.left" timestamp="1583124569061">
-      <screen x="0" y="24" width="1920" height="1056" />
-    </state>
-    <state width="1874" height="279" key="GridCell.Tab.0.left/0.24.1920.1056@0.24.1920.1056" timestamp="1583124569061" />
-    <state width="1874" height="279" key="GridCell.Tab.0.right" timestamp="1583124569061">
-      <screen x="0" y="24" width="1920" height="1056" />
-    </state>
-    <state width="1874" height="279" key="GridCell.Tab.0.right/0.24.1920.1056@0.24.1920.1056" timestamp="1583124569061" />
-    <state x="269" y="154" width="1372" height="795" key="new project wizard" timestamp="1582816086387">
-      <screen x="0" y="24" width="1920" height="1056" />
-    </state>
-    <state x="269" y="154" width="1372" height="795" key="new project wizard/0.24.1920.1056@0.24.1920.1056" timestamp="1582816086387" />
+    <state x="470" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583525368901" />
   </component>
 </project>
