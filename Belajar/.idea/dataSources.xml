@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="praktikum@localhost" uuid="8875dea7-79e1-4620-9eac-84c02f73a6ec">
+    <data-source source="LOCAL" name="dbcontact@localhost" uuid="8875dea7-79e1-4620-9eac-84c02f73a6ec">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/praktikum</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306/dbcontact</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="dbcontact@localhost [2]" uuid="fd9a15c5-5274-4046-8301-f1d4c4c1dc64">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/dbcontact</jdbc-url>
     </data-source>
   </component>
 </project>

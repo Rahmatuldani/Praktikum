@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TesCrud">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/TesCrud.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
